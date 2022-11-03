@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# Croct's Challenge - Customer Success Engineer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Para a realização desse desafio, desenvolvi um site de 3 páginas de uma empresa fictícia chamada Learning Center, a qual vende cursos.
+Utilizei React, inicialmente com JavaScript, mas depois fiz a mudança para TypeScript.
 
-## Available Scripts
+## Testes da lib da Croct
 
-In the project directory, you can run:
+Antes de iniciar um projeto, eu primeiramente testei alguns componentes do '@croct/plug-react', como o {Personalization}, {useEvaluation}, {Slot} e {useContent}. Eles funcionaram muito bem, como podemos ver na imagem abaixo:
 
-### `npm start`
+![captura6](https://user-images.githubusercontent.com/117226257/199828556-b0b5c920-7b4c-47b4-bb3f-05f7ab5bb07b.PNG)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Infelizmente, não consegui replicar nenhum componente no projeto que criei.
+Eu conseguia criar os componentes e colocá-los na minha página principal, e nenhum erro era apontado no terminal. Entretanto, a visualização no browser desaparecia.
+Tentei fazer diversas mudanças, inclusive fiz o projeto tanto em js quanto em tsx, mas nada do que eu fiz resolveu esse problema.
+Sei que utilizar a biblioteca da Croct era o principal intuito do desafio, mas não consegui colocá-la em meu projeto, embora separadamente eu tenha conseguido usar.
+Estou um pouco frustrada por não ter conseguido realizar essa parte do desafio, mas apesar disso, estou feliz com meu projeto, pois é a primeira vez que eu faço um projeto do zero utilizando JavaScript, TypeScript e CSS. Das vezes anteriores eu tinha utilizado HTML e CSS com algumas ferramentas, como por exemplo, o Elementor do WordPress.
+Desse modo, colocarei aqui embaixo algumas imagens do site que desenvolvi.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## HomePage
 
-### `npm test`
+![captura1](https://user-images.githubusercontent.com/117226257/199829973-a2e468db-021b-46ee-8727-5a8495c75d90.PNG)
+![captura2](https://user-images.githubusercontent.com/117226257/199829989-a17dc036-fd39-47db-93a3-a557a010336e.PNG)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Cursos
 
-### `npm run build`
+![captura3](https://user-images.githubusercontent.com/117226257/199830175-f30100ec-34b3-4874-8f50-d9560e648cd8.PNG)
+![captura4](https://user-images.githubusercontent.com/117226257/199830182-5fd8add1-9f14-459e-a6b5-5c2c9b12f449.PNG)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Contato
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![captura5](https://user-images.githubusercontent.com/117226257/199830219-6df93f04-67c0-47bf-802a-e9217000fbd4.PNG)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Sei que tenho potencial para entregar um trabalho melhor do que este que apresentei, mas enfrentei algumas dificuldades pelo caminho, de modo que esse foi o melhor que eu tinha para oferecer.
+De qualquer forma, sou muito grata por essa oportunidade que estou tendo, pois aprendi muita coisa enquanto realizava esse desafio.
