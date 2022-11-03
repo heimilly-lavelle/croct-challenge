@@ -1,0 +1,27 @@
+.contato_container {
+    width: 750px;
+    margin: 0 auto;
+    padding: 3em;
+    margin-bottom: 2em;
+}
+
+.contato_container h1 {
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+}
+
+.contato_container h2 {
+    padding-bottom: 1em;
+}
+
+.contato_container h3 {
+    padding-top: 4em;
+}
+
+.contato_container p {
+    padding-top: 1em;
+}
+
+.contato_container p span {
+    color: crimson;
+}

@@ -1,0 +1,21 @@
+.cursos {
+    margin-top: 3em;
+    margin-bottom: 2.5em;
+}
+
+.cursos h1 {
+    padding-bottom: 1.5em; 
+}
+
+.cursos h2 {
+    padding-bottom: .5em;    
+}
+
+.cursos p {
+    padding-bottom: .7em;    
+}
+
+.cursos img {
+    width: 400px;
+    padding-bottom: 3em;
+}

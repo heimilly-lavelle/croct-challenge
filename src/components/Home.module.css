@@ -1,0 +1,53 @@
+.home_container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 4em;
+}
+
+.home_container h1 {
+    font-size: 2.5em;
+    margin-bottom: .5em;
+}
+
+.home_container h1 span {
+    color: crimson;
+}
+
+.home_container h3 {
+    padding-bottom: 4em;
+}
+
+.home_container h4 {
+    padding-top: 2em;
+    padding-bottom: 1.5em;   
+}
+
+.home_container p {
+    margin-bottom: 1.5em;
+    color: #222;
+}
+
+.home_container p span {
+    color: crimson;
+}
+
+.home_container img {
+    width: 500px;
+    padding-bottom: 1.5em;
+}
+
+.home_container button {
+    padding: .3em .7em;
+}
+
+.home_container button:hover {
+    color: crimson;
+}
+
+.home_container a {
+    margin-bottom: 5em;
+    margin-top: -1em;
+}
